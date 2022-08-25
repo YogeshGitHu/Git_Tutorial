@@ -1,0 +1,5 @@
+This is version 1 of my Project Git .
+
+I want to go commit 3
+
+Hi I am cha a file . 
