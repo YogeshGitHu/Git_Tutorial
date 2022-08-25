@@ -1,5 +1,5 @@
 This is version 1 of my Project Git Hub .
 
-I want to go commit 
+I want to go commit.
 
-Hi I am cha a file . 
+Hi I am change a file . 
